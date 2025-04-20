@@ -39,7 +39,7 @@ export default {
 <template>
   <div class="container mx-auto p-4">
     <div class="image-container">
-      <img src="/images/chloe.jpg" alt="Chloe Kruger" class="profile-image" />
+      <img src="/public/images/chloe.jpeg" alt="Chloe Kruger" class="profile-image" />
     </div>
 
     <div class="bio">
